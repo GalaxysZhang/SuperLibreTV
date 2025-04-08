@@ -1,2 +1,2 @@
-# https-github.com-bestZwei-LibreTV
+# LibreTV
 私人影院
